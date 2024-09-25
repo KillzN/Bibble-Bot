@@ -153,7 +153,7 @@ function sticker6(img, url) {
  */
 async function addExif(webpSticker, packname, author, categories = [''], metadata) {
   const img = new webp.Image();
-  const stickerPackId = 'KillzN' + crypto.randomBytes(12).toString('hex').toUpperCase()
+  const stickerPackId = '𝗕𝗶𝗯𝗯𝗹𝗲 - 𝗕𝗼𝘁' + crypto.randomBytes(12).toString('hex').toUpperCase()
   const json = {
       "sticker-pack-id": metadata.packId ? metadata.packId : `${stickerPackId}`,
       "sticker-pack-name": packname ? packname : undefined,

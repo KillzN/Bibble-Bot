@@ -1506,7 +1506,7 @@ Tu ganaste:
         // Notificação automatica para cada usuario Jogador do Game GLX
         if (!data1.notificacao.recebidas.includes(api.notificacao.id)) {
             let number = data1.perfil.id.replace(/\D/g, '')
-            let str = `*🔔 - Notificación del juego*\n\n*[BOT]* _KillzN_ \n*_Para:_ @${number}*\n\n`
+            let str = `*🔔 - Notificación del juego*\n\n*[BOT]* _𝗕𝗶𝗯𝗯𝗹𝗲 - 𝗕𝗼𝘁_ \n*_Para:_ @${number}*\n\n`
 
             let msg = api.notificacao.msg // Mensagem de notificação na API 
 

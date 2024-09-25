@@ -28,7 +28,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = 'The KillzN Bot';
+  const wm = 'The 𝗕𝗶𝗯𝗯𝗹𝗲 - 𝗕𝗼𝘁 Bot';
   const info = ` ${tradutor.texto1[0]}
 
   ${tradutor.texto1[1]} 
@@ -75,7 +75,7 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
         mediaType: 2,
         previewType: "pdf",
-        title: "KillzN",
+        title: "𝗕𝗶𝗯𝗯𝗹𝗲 - 𝗕𝗼𝘁",
         body: tradutor.texto2,
         thumbnail: imagen1,
         sourceUrl: "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",

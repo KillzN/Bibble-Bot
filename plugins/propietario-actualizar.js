@@ -22,7 +22,7 @@ const handler = async (m, { conn, text }) => {
           .split('\n')
           .filter(line => line.trim() !== '')
           .map(line => {
-            if (line.includes('.npm/') || line.includes('.cache/') || line.includes('tmp/') || line.includes('KillzNSession/') || line.includes('npm-debug.log')) {
+            if (line.includes('.npm/') || line.includes('.cache/') || line.includes('tmp/') || line.includes('𝗕𝗶𝗯𝗯𝗹𝗲 - 𝗕𝗼𝘁Session/') || line.includes('npm-debug.log')) {
               return null;
             }
             return '*→ ' + line.slice(3) + '*';

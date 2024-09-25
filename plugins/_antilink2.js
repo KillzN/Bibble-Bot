@@ -1,4 +1,4 @@
-// KillzN@BrunoSobrino - _antilink2.js
+// 𝗕𝗶𝗯𝗯𝗹𝗲 - 𝗕𝗼𝘁@BrunoSobrino - _antilink2.js
 
  // Para configurar o idioma, na raiz do projeto altere o arquivo config.json
   // Para configurar el idioma, en la raíz del proyecto, modifique el archivo config.json.

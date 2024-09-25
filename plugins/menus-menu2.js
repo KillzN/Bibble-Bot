@@ -26,7 +26,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = ` ┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
-┃⭐ Creador : KillzN
+┃⭐ Creador : 𝗕𝗶𝗯𝗯𝗹𝗲 - 𝗕𝗼𝘁
 ┃📞 Wa.me/56983073328
 ┃https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
@@ -44,7 +44,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *┃➤  ${usedPrefix}kick*
  *┃➤  ${usedPrefix}grupo*
  *┃➤  ${usedPrefix}promote*
- *┃➤  ${usedPrefix}demote*
  *┃➤  ${usedPrefix}demote*
  *┃➤  ${usedPrefix}link*
  *┃➤  ${usedPrefix}invocar*

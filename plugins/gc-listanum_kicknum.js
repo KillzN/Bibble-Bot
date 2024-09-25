@@ -1,4 +1,4 @@
-/*              Codigo Creado Por KillzN
+/*              Codigo Creado Por 𝗕𝗶𝗯𝗯𝗹𝗲 - 𝗕𝗼𝘁
       (https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC)
 */
 
